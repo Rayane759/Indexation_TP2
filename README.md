@@ -1,9 +1,5 @@
 # Product Indexation System
 
-## Overview
-
-This project builds search indexes from product data in JSONL format, enabling efficient full-text search and product filtering.
-
 ## Indexes
 
 | Index | Type | Purpose |
@@ -24,8 +20,6 @@ This project builds search indexes from product data in JSONL format, enabling e
 - **No external dependencies**: Uses only Python standard library
 
 ## Setup & Run
-
-**Requirements**: Python 3.8+
 
 **Command**:
 ```bash
